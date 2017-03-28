@@ -1,0 +1,24 @@
+var namespaceorg_1_1lightjason_1_1agentspeak_1_1action_1_1buildin_1_1datetime =
+[
+    [ "CApplyDays", "d8/d70/classorg_1_1lightjason_1_1agentspeak_1_1action_1_1buildin_1_1datetime_1_1CApplyDays.html", "d8/d70/classorg_1_1lightjason_1_1agentspeak_1_1action_1_1buildin_1_1datetime_1_1CApplyDays" ],
+    [ "CApplyHours", "d4/de6/classorg_1_1lightjason_1_1agentspeak_1_1action_1_1buildin_1_1datetime_1_1CApplyHours.html", "d4/de6/classorg_1_1lightjason_1_1agentspeak_1_1action_1_1buildin_1_1datetime_1_1CApplyHours" ],
+    [ "CApplyMinutes", "d1/d98/classorg_1_1lightjason_1_1agentspeak_1_1action_1_1buildin_1_1datetime_1_1CApplyMinutes.html", "d1/d98/classorg_1_1lightjason_1_1agentspeak_1_1action_1_1buildin_1_1datetime_1_1CApplyMinutes" ],
+    [ "CApplyMonths", "d1/de5/classorg_1_1lightjason_1_1agentspeak_1_1action_1_1buildin_1_1datetime_1_1CApplyMonths.html", "d1/de5/classorg_1_1lightjason_1_1agentspeak_1_1action_1_1buildin_1_1datetime_1_1CApplyMonths" ],
+    [ "CApplyNanoSeconds", "d4/d1f/classorg_1_1lightjason_1_1agentspeak_1_1action_1_1buildin_1_1datetime_1_1CApplyNanoSeconds.html", "d4/d1f/classorg_1_1lightjason_1_1agentspeak_1_1action_1_1buildin_1_1datetime_1_1CApplyNanoSeconds" ],
+    [ "CApplySeconds", "da/d2e/classorg_1_1lightjason_1_1agentspeak_1_1action_1_1buildin_1_1datetime_1_1CApplySeconds.html", "da/d2e/classorg_1_1lightjason_1_1agentspeak_1_1action_1_1buildin_1_1datetime_1_1CApplySeconds" ],
+    [ "CApplyYears", "da/dbe/classorg_1_1lightjason_1_1agentspeak_1_1action_1_1buildin_1_1datetime_1_1CApplyYears.html", "da/dbe/classorg_1_1lightjason_1_1agentspeak_1_1action_1_1buildin_1_1datetime_1_1CApplyYears" ],
+    [ "CBuild", "d2/da4/classorg_1_1lightjason_1_1agentspeak_1_1action_1_1buildin_1_1datetime_1_1CBuild.html", "d2/da4/classorg_1_1lightjason_1_1agentspeak_1_1action_1_1buildin_1_1datetime_1_1CBuild" ],
+    [ "CCreate", "d8/d40/classorg_1_1lightjason_1_1agentspeak_1_1action_1_1buildin_1_1datetime_1_1CCreate.html", "d8/d40/classorg_1_1lightjason_1_1agentspeak_1_1action_1_1buildin_1_1datetime_1_1CCreate" ],
+    [ "CDate", "d5/df1/classorg_1_1lightjason_1_1agentspeak_1_1action_1_1buildin_1_1datetime_1_1CDate.html", "d5/df1/classorg_1_1lightjason_1_1agentspeak_1_1action_1_1buildin_1_1datetime_1_1CDate" ],
+    [ "CDaysBetween", "d0/d61/classorg_1_1lightjason_1_1agentspeak_1_1action_1_1buildin_1_1datetime_1_1CDaysBetween.html", "d0/d61/classorg_1_1lightjason_1_1agentspeak_1_1action_1_1buildin_1_1datetime_1_1CDaysBetween" ],
+    [ "CHoursBetween", "d0/d97/classorg_1_1lightjason_1_1agentspeak_1_1action_1_1buildin_1_1datetime_1_1CHoursBetween.html", "d0/d97/classorg_1_1lightjason_1_1agentspeak_1_1action_1_1buildin_1_1datetime_1_1CHoursBetween" ],
+    [ "CMinutesBetween", "d3/db0/classorg_1_1lightjason_1_1agentspeak_1_1action_1_1buildin_1_1datetime_1_1CMinutesBetween.html", "d3/db0/classorg_1_1lightjason_1_1agentspeak_1_1action_1_1buildin_1_1datetime_1_1CMinutesBetween" ],
+    [ "CMonthsBetween", "d0/dbd/classorg_1_1lightjason_1_1agentspeak_1_1action_1_1buildin_1_1datetime_1_1CMonthsBetween.html", "d0/dbd/classorg_1_1lightjason_1_1agentspeak_1_1action_1_1buildin_1_1datetime_1_1CMonthsBetween" ],
+    [ "CSecondsBetween", "d2/d71/classorg_1_1lightjason_1_1agentspeak_1_1action_1_1buildin_1_1datetime_1_1CSecondsBetween.html", "d2/d71/classorg_1_1lightjason_1_1agentspeak_1_1action_1_1buildin_1_1datetime_1_1CSecondsBetween" ],
+    [ "CTime", "dc/d09/classorg_1_1lightjason_1_1agentspeak_1_1action_1_1buildin_1_1datetime_1_1CTime.html", "dc/d09/classorg_1_1lightjason_1_1agentspeak_1_1action_1_1buildin_1_1datetime_1_1CTime" ],
+    [ "CYearsBetween", "d4/d69/classorg_1_1lightjason_1_1agentspeak_1_1action_1_1buildin_1_1datetime_1_1CYearsBetween.html", "d4/d69/classorg_1_1lightjason_1_1agentspeak_1_1action_1_1buildin_1_1datetime_1_1CYearsBetween" ],
+    [ "CZoneid", "d4/dee/classorg_1_1lightjason_1_1agentspeak_1_1action_1_1buildin_1_1datetime_1_1CZoneid.html", "d4/dee/classorg_1_1lightjason_1_1agentspeak_1_1action_1_1buildin_1_1datetime_1_1CZoneid" ],
+    [ "IBetween", "d8/da8/classorg_1_1lightjason_1_1agentspeak_1_1action_1_1buildin_1_1datetime_1_1IBetween.html", "d8/da8/classorg_1_1lightjason_1_1agentspeak_1_1action_1_1buildin_1_1datetime_1_1IBetween" ],
+    [ "IDateTime", "d7/df3/classorg_1_1lightjason_1_1agentspeak_1_1action_1_1buildin_1_1datetime_1_1IDateTime.html", "d7/df3/classorg_1_1lightjason_1_1agentspeak_1_1action_1_1buildin_1_1datetime_1_1IDateTime" ],
+    [ "IPlusMinus", "d6/d7b/classorg_1_1lightjason_1_1agentspeak_1_1action_1_1buildin_1_1datetime_1_1IPlusMinus.html", "d6/d7b/classorg_1_1lightjason_1_1agentspeak_1_1action_1_1buildin_1_1datetime_1_1IPlusMinus" ]
+];
